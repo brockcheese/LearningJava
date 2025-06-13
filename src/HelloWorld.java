@@ -8,6 +8,9 @@ public class HelloWorld {
         boolean hasPerfectAttendance = true;
 
         System.out.println(studentAge);
-
+        System.out.println(studentGPA);
+        System.out.println(studentFirstInitial);
+        System.out.println(studentLastInitial);
+        System.out.println(hasPerfectAttendance);
     }
 }
