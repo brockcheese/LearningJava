@@ -5,5 +5,9 @@ public class HelloWorld {
         double studentGPA = 3.45;
         char studentFirstInitial = 'K';
         char studentLastInitial = 'H';
+        boolean hasPerfectAttendance = true;
+
+        System.out.println(studentAge);
+
     }
 }
