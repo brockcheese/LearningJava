@@ -6,14 +6,16 @@ public class HelloWorld {
         char studentFirstInitial = 'K';
         char studentLastInitial = 'H';
         boolean hasPerfectAttendance = true;
-        String studentName = "Kayla Harley";
+        String studentFirstName = "Kayla";
+        String studentLastName = "Harley";
 
         System.out.println(studentAge);
         System.out.println(studentGPA);
         System.out.println(studentFirstInitial);
         System.out.println(studentLastInitial);
         System.out.println(hasPerfectAttendance);
-        System.out.println(studentName);
+        System.out.println(studentFirstName);
+        System.out.println(studentLastName);
 
     }
 }
